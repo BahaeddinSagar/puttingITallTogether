@@ -2,6 +2,7 @@ This porject aims at making an almost realistic application where we fetch data,
 we also made onItemClickListeners where we redirect the user to a more detailed activity.
 
 the steps to make a ListView are as follows:
+
 1- make the main view with one listview inside it.
 
 2- make a new layout file for the item layout
